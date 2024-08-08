@@ -20146,8 +20146,8 @@ Uri: https://ave.kaist.ac.kr/skin/member/basic/style.css?ver=191202
 File Name: C:\Downloaded Web Sites\ave.kaist.ac.kr\skin\member\basic\style.css
 Content Type: text/css
 
-Uri: https://ave.kaist.ac.kr/sub2_1.php
-File Name: C:\Downloaded Web Sites\ave.kaist.ac.kr\sub2_1.php.html
+Uri: https://ave.kaist.ac.kr/sub2_1_2.php
+File Name: C:\Downloaded Web Sites\ave.kaist.ac.kr\sub2_1_2.php.html
 Content Type: text/html
 
 Uri: https://ave.kaist.ac.kr/sub2_1_1.php
